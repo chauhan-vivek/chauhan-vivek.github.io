@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Video Compression
-subtitle: Understanding the rate control modes
-categories: ComputerNetworks
-tags: [Codecs, compression]
+title: "Video Compression"
+subtitle: "Understanding the rate control modes"
+date: 2023-01-29 21:45:13 -0400
+background: '/img/posts/02.jpg'
 ---
 
 The difference between two adjacent frames in a video could either be large or same, hence a possible way to save on the number of bits to be sent could be to just send delta to encode the differences. High spatial details and complex textures would definitely take more bits as delta would be greater but even in worst case we are just sending at most bits equal to  maximum size of frame and in expected case save bits sending over network.

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: TCP and more TCPs
-subtitle: TCP variants and why
-categories: ComputerNetworks
-tags: [AIMD, BIC, CUBIC, BBR, Reno, Vegas]
+title: "TCP and more TCPs"
+subtitle: "TCP variants"
+date: 2023-01-29 20:45:13 -0400
+background: '/img/posts/01.jpg'
 ---
 
 TCP (transport control protocol) is much more than just a single protocol, it is a common transport protocol header format, all packets use this header format and have a uniform interpretation of header fields. But how the flow and congestion control are implemented is left to the system. This leads to many variants of TCP that attempt to optimize the utilization of channels and maintain fairness in network environments.
