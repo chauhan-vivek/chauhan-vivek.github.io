@@ -41,7 +41,7 @@ And apparently that place was **Yellowknife**.
 
 ---
 <div style="text-align:center;">
-  <img src="montreal_aurora_photo.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <img src="/img/posts/montreal_aurora_photo.jpg" style="width:700px; max-width:100%; height:auto;" />
   <p><em>The 144p trailer version I saw in Montreal.</em></p>
 </div>
 
@@ -169,7 +169,7 @@ And the name stuck.
 <!-- ![Traditional copper knife inspiration](/img/posts/yellowknife_copper_knife.jpg)
 *The original "yellow knife".* -->
 <div style="text-align:center;">
-  <img src="/img/posts/yellowknife_copper_knife.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <img src="/img/posts/yellowknife_copper_knife.jpg" style="width:400px; max-width:60%; height:auto;" />
   <p><em>The original “yellow knife”.</em></p>
 </div>
 
