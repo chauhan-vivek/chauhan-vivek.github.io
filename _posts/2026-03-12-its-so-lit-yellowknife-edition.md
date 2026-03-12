@@ -40,9 +40,13 @@ At that moment I realized something:
 And apparently that place was **Yellowknife**.
 
 ---
+<div style="text-align:center;">
+  <img src="montreal_aurora_photo.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <p><em>The 144p trailer version I saw in Montreal.</em></p>
+</div>
 
-![Aurora from Montreal](/img/posts/montreal_aurora_photo.jpg)
-*The "144p trailer" version I saw in Montreal.*
+<!-- ![Aurora from Montreal](/img/posts/montreal_aurora_photo.jpg)
+*The "144p trailer" version I saw in Montreal.* -->
 
 ---
 
@@ -110,14 +114,20 @@ Which is why the lights look like they’re **dancing across the sky**.
 
 ---
 
-![Aurora dancing over Yellowknife](/img/posts/yellowknife_aurora_photo_1.jpg)
-*The sky above Yellowknife turning into a live light show.*
-
+<!-- ![Aurora dancing over Yellowknife](/img/posts/yellowknife_aurora_photo_1.jpg)
+*The sky above Yellowknife turning into a live light show.* -->
+<div style="text-align:center;">
+  <img src="/img/posts/yellowknife_aurora_photo_1.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <p><em>When the sky starts moving.</em></p>
+</div>
 ---
 
-![Aurora colors over Yellowknife](/img/posts/yellowknife_aurora_photo_2.jpg)
-*When oxygen and nitrogen both decide to join the party.*
-
+<!-- ![Aurora colors over Yellowknife](/img/posts/yellowknife_aurora_photo_2.jpg)
+*When oxygen and nitrogen both decide to join the party.* -->
+<div style="text-align:center;">
+  <img src="/img/posts/yellowknife_aurora_photo_1.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <p><em>When oxygen and nitrogen both join the party.</em></p>
+</div>
 ---
 
 ## Why Yellowknife Is Basically a Front-Row Seat
@@ -156,8 +166,12 @@ And the name stuck.
 
 ---
 
-![Traditional copper knife inspiration](/img/posts/yellowknife_copper_knife.jpg)
-*The original "yellow knife".*
+<!-- ![Traditional copper knife inspiration](/img/posts/yellowknife_copper_knife.jpg)
+*The original "yellow knife".* -->
+<div style="text-align:center;">
+  <img src="/img/posts/yellowknife_copper_knife.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <p><em>The original “yellow knife”.</em></p>
+</div>
 
 ---
 
