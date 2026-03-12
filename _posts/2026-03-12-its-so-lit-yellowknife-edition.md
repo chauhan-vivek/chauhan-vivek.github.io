@@ -117,7 +117,7 @@ Which is why the lights look like they’re **dancing across the sky**.
 <!-- ![Aurora dancing over Yellowknife](/img/posts/yellowknife_aurora_photo_1.jpg)
 *The sky above Yellowknife turning into a live light show.* -->
 <div style="text-align:center;">
-  <img src="/img/posts/yellowknife_aurora_photo_1.jpg" style="width:700px; max-width:100%; height:auto;" />
+  <img src="/img/posts/yellowknife_aurora_photo_2.jpg" style="width:700px; max-width:100%; height:auto;" />
   <p><em>When the sky starts moving.</em></p>
 </div>
 ---
