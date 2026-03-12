@@ -2,7 +2,7 @@
 layout: post
 title: "It's So Lit — Yellowknife Edition"
 # subtitle: "TCP variants"
-date: 2026-03-12 00:09:00 -0400
+date: 2026-03-11 00:09:00 -0400
 background: '/img/posts/aurora-bg.jpg'
 ---
 
