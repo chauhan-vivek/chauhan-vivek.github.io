@@ -1,10 +1,11 @@
-<div style="text-align:center;">
-  <img src="img/posts/snow_blanket.jpg" style="width:700px; max-width:100%; height:auto;" />
-  <p><em>The Great Deep-Freeze Plot Twist: How Canada Outsmarts Winter</em></p>
-</div>
+---
+layout: post
+title: "The Great Deep-Freeze Plot Twist: How Canada Outsmarts Winter"
+# subtitle: "TCP variants"
+date: 2026-03-20 00:09:00 -0400
+background: '/img/posts/snow_blanket.jpg'
 ---
 
-<!-- ## **The Great Deep-Freeze Plot Twist: How Canada Outsmarts Winter** -->
 
 I’ve had a long, confusing relationship with water. Not emotionally—thermodynamically.
 
