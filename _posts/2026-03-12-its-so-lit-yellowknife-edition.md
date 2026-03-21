@@ -1,12 +1,9 @@
 ---
 layout: post
 title: "It's So Lit — Yellowknife Edition"
-# subtitle: "TCP variants"
 date: 2026-03-11 00:09:00 -0400
 background: '/img/posts/aurora-bg.jpg'
 ---
-
-<!-- # It's So Lit — Yellowknife Edition -->
 
 ## The Night I Realized I Had Never Actually Seen the Northern Lights
 

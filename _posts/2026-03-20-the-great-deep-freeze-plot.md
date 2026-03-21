@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Great Deep-Freeze Plot Twist: How Canada Outsmarts Winter"
-# subtitle: "TCP variants"
 date: 2026-03-20 00:09:00 -0400
 background: '/img/posts/snow_blanket.jpg'
 ---
