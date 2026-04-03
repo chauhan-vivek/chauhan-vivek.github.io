@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Doesn’t Calculate — It Communicates"
-date: 2026-03-20 00:09:00 -0400
+date: 2026-04-02 00:09:00 -0400
 background: '/img/posts/data-pipeline.jpg'
 ---
 
