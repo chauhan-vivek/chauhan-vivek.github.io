@@ -6,8 +6,6 @@ background: '/img/posts/data-pipeline.jpg'
 ---
 
 
-# ****
-
 We’ve all seen the magic trick.
 
 You upload a messy CSV. You ask, *“What’s going on here?”*
