@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Docstrings in the Age of Agents"
-date: 2026-05-29 00:09:00 -0400
+date: 2026-04-30 00:09:00 -0400
 background: '/img/posts/docstrings-in-age-of-ai.png'
 ---
 
