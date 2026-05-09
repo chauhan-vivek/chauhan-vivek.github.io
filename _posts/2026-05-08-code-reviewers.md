@@ -2,7 +2,7 @@
 layout: post
 title: "The “Lazy” Genius: Why Your AI Code Reviewer Needs a Promotion (and a Reality Check)"
 date: 2026-05-08 00:09:00 -0400
-background: '/img/posts/code-reviewers.png'
+background: '/img/posts/code-reviewer.png'
 ---
 
 Let’s be honest: today’s AI code reviewers are basically that overenthusiastic intern who discovered linters yesterday and now thinks every underscore is a war crime.
