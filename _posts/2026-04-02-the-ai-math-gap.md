@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Doesn’t Calculate — It Communicates"
+title: "AI Doesn’t Calculate - It Communicates"
 date: 2026-04-02 00:09:00 -0400
 background: '/img/posts/data-pipeline.jpg'
 ---
@@ -121,7 +121,7 @@ It’s like trying to:
 
 …while someone has cut your spreadsheet into random pieces and shuffled them.
 
-**Place value — the entire foundation of math — starts falling apart.**
+**Place value - the entire foundation of math - starts falling apart.**
 
 So expecting precise arithmetic from this setup is a bit like expecting:
 
@@ -208,7 +208,7 @@ It’s:
 
 ## **5. The Closest Thing to a “Numerical AI”**
 
-We *are* getting closer — just not in the way people expect.
+We *are* getting closer - just not in the way people expect.
 
 Instead of one giant “math brain,” we have systems that collaborate:
 

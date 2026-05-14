@@ -6,7 +6,7 @@ background: '/img/posts/snow-bg.jpg'
 ---
 
 
-I’ve had a long, confusing relationship with water. Not emotionally—thermodynamically.
+I’ve had a long, confusing relationship with water. Not emotionally - thermodynamically.
 
 A few years ago, I spent a winter in Himachal Pradesh, India. Beautiful mountains, peaceful villages… and taps that stopped working the moment the temperature dipped to a very manageable **-5°C**. Every morning, I’d turn the faucet with hope, only to be ghosted by ice. Absolute betrayal.
 
@@ -27,7 +27,7 @@ Let’s break down this cold conspiracy.
 
 ## **1. The “Six-Feet-Under” Strategy (aka Plumbing Goes Into Witness Protection)**
 
-In Canada, pipes aren’t just installed—they’re *strategically hidden from winter*.
+In Canada, pipes aren’t just installed - they’re *strategically hidden from winter*.
 
 Most water lines sit **6 to 10 feet underground**.
 
@@ -80,7 +80,7 @@ Or simply:
 
 Driving a car on a frozen lake already feels like you’re breaking several life rules at once.
 
-But the real twist comes when you drill through the ice—and find **liquid water** underneath. With fish. Just casually existing.
+But the real twist comes when you drill through the ice - and find **liquid water** underneath. With fish. Just casually existing.
 
 So what’s going on?
 
@@ -112,7 +112,7 @@ At the bottom:
 
 ## **Where Else This “Don’t Freeze” Logic Shows Up**
 
-Once you notice it, this isn’t just about pipes or lakes—it’s a universal strategy.
+Once you notice it, this isn’t just about pipes or lakes - it’s a universal strategy.
 
 ### **1. The Human Body**
 
@@ -158,7 +158,7 @@ To handle this:
 
 ## **The Real Rule of Winter**
 
-After all this, the secret isn’t complicated—it’s just applied really well.
+After all this, the secret isn’t complicated - it’s just applied really well.
 
 > **If you don’t want something to freeze:**
 >
@@ -168,7 +168,7 @@ After all this, the secret isn’t complicated—it’s just applied really well
 
 That’s it.
 
-From underground pipes to frozen lakes to human survival systems—the same three tricks show up everywhere.
+From underground pipes to frozen lakes to human survival systems - the same three tricks show up everywhere.
 
 And once you see it, winter starts to feel less mysterious…
 and a lot more engineered.

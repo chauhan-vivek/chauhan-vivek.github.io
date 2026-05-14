@@ -9,7 +9,7 @@ Docstrings used to be simple: write something helpful so the next developer does
 
 That world has changed.
 
-Today, your docstrings are no longer read only by humans. They are consumed—parsed, compressed, and sometimes misinterpreted—by AI agents that use them to decide what your code *means* and *how* to use it.
+Today, your docstrings are no longer read only by humans. They are consumed - parsed, compressed, and sometimes misinterpreted - by AI agents that use them to decide what your code *means* and *how* to use it.
 
 And unlike your teammates, these agents don’t appreciate nuance. They appreciate signal.
 
@@ -17,7 +17,7 @@ And unlike your teammates, these agents don’t appreciate nuance. They apprecia
 
 ## The Problem: When Good Documentation Goes Bad
 
-Modern docstring styles—NumPy, reST, Google—were designed for clarity and completeness. They optimize for humans who want context, examples, and reasoning.
+Modern docstring styles - NumPy, reST, Google - were designed for clarity and completeness. They optimize for humans who want context, examples, and reasoning.
 
 Agentic systems operate differently.
 
@@ -178,7 +178,7 @@ Instead of overwhelming the agent upfront, you give it the ability to ask for he
 
 ## Final Take
 
-Docstrings are no longer just documentation—they are part of your system design.
+Docstrings are no longer just documentation - they are part of your system design.
 
 Writing them effectively now requires thinking about:
 

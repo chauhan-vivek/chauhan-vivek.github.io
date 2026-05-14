@@ -1,2 +1,87 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// === Custom overrides ===
+
+// Warm parchment body background
+body {
+  background-color: #F6F2EB;
+}
+
+// Masthead overlay - deep forest green tint instead of flat grey
+header.masthead .overlay {
+  background-color: #2A2E24;
+  opacity: 0.62;
+}
+
+// Post preview cards - sage left accent + hover lift
+.post-preview {
+  padding-left: 18px;
+  border-left: 3px solid #6B8F71;
+  transition: transform 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+
+  > .post-meta {
+    color: #8B6F47;
+  }
+}
+
+// Softer horizontal rules
+hr {
+  border-color: #D4CEBD;
+}
+
+// Navbar brand - monospace terminal feel
+#mainNav .navbar-brand {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+
+  &::before {
+    content: "> ";
+    opacity: 0.55;
+  }
+}
+
+// Inline code - warm dark surface
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.82em;
+  background-color: #E8E2D6;
+  color: #2A2E24;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+// Code blocks - dark forest
+pre {
+  background-color: #2A2E24;
+  color: #E8E3D8;
+  padding: 20px;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 30px 0;
+
+  code {
+    background-color: transparent;
+    color: inherit;
+    padding: 0;
+    font-size: 0.85em;
+  }
+}
+
+// Text selection - sage highlight
+::selection {
+  background: #6B8F71;
+  color: #fff;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  background: #6B8F71;
+  color: #fff;
+  text-shadow: none;
+}
