@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It's So Lit — Yellowknife Edition"
+title: "It's So Lit - Yellowknife Edition"
 date: 2026-03-11 00:09:00 -0400
 background: '/img/posts/aurora-bg.jpg'
 ---
@@ -55,7 +55,7 @@ Think of it as a **cosmic pinball game between the Sun and Earth**.
 
 The Sun constantly releases streams of charged particles called **solar wind**.
 
-Most of these particles get blocked by Earth's magnetic field — which basically acts like an invisible shield protecting our planet.
+Most of these particles get blocked by Earth's magnetic field - which basically acts like an invisible shield protecting our planet.
 
 But near the **North and South poles**, the magnetic field lines curve downward and create a sort of opening.
 
@@ -97,7 +97,7 @@ Basically, the atmosphere becomes a giant **neon sign powered by the Sun**.
 
 The movement is what makes auroras feel surreal.
 
-They don't just sit there — they **flow, ripple, and swirl across the sky**.
+They don't just sit there - they **flow, ripple, and swirl across the sky**.
 
 This happens because the particles follow **Earth's magnetic field lines**, which constantly shift and vibrate due to solar activity.
 
@@ -105,7 +105,7 @@ A helpful way to picture it:
 
 Imagine Earth's magnetic field like **giant invisible strings around the planet**.
 
-When solar wind interacts with them, those strings vibrate — and the aurora simply follows those vibrations.
+When solar wind interacts with them, those strings vibrate - and the aurora simply follows those vibrations.
 
 Which is why the lights look like they’re **dancing across the sky**.
 
@@ -174,7 +174,7 @@ And the name stuck.
 
 ## Final Thought
 
-I had chased the northern lights before — in Toronto, Montreal, and on a few ambitious night drives.
+I had chased the northern lights before - in Toronto, Montreal, and on a few ambitious night drives.
 
 But that night in **Yellowknife**, watching the sky ripple with color for five straight hours, I realized something simple:
 

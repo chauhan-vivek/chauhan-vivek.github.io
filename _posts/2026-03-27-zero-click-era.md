@@ -23,7 +23,7 @@ It just moved somewhere you can’t see.
 
 ---
 
-## 1. The Toll Booth Didn’t Disappear — It Got Smarter
+## 1. The Toll Booth Didn’t Disappear - It Got Smarter
 
 Google used to be the helpful concierge of the internet:
 “Here are 10 blue links. Enjoy your stay.”
@@ -47,7 +47,7 @@ You’re:
 All without ever leaving the interface.
 
 **Translation:** The toll booth didn’t go away.
-It just moved *inside the conversation*—and now it charges per interaction, not per visit.
+It just moved *inside the conversation* - and now it charges per interaction, not per visit.
 
 ---
 
@@ -77,7 +77,7 @@ And it’s *dangerously effective*.
 
 ## 3. Retail Media: The Cheat Code No One Talks About
 
-Here’s where things get interesting—and where your world (retail adtech) has a massive advantage.
+Here’s where things get interesting - and where your world (retail adtech) has a massive advantage.
 
 On most platforms:
 
@@ -173,7 +173,7 @@ We’re entering the **Data Licensing Economy**:
 So even if you never visit the site…
 they might’ve already gotten paid.
 
-It’s like Netflix for data—except the audience is AI.
+It’s like Netflix for data - except the audience is AI.
 
 ---
 
