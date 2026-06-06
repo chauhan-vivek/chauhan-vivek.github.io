@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fast Lane and the AI Chauffeur"
-date: 2026-05-29 00:09:00 -0400
+date: 2026-06-06 00:09:00 -0400
 background: '/img/posts/ai-drive.png'
 ---
 
